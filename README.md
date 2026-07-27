@@ -1,55 +1,104 @@
-# Hi there, I'm [Momin(yours truly)] 👋
+# Hi there, I'm [Momin(yours truly)] 
 
-### 🐍 Python & Web Developer
+### 🐍 Python & Web Developer | Self-Taught Programmer
 
-Passionate programmer focused on Object-Oriented Programming (OOP), clean logic design, and building functional applications. Actively learning and building projects using Python and web technologies.
+Passionate developer focused on Object-Oriented Programming (OOP), backend logic, and responsive web design. Constantly learning and building real-world projects.
 
 ---
 
-### 🛠️ Tech Stack & Skills
+## ⚡ Skills & Experience Level
 
-**Languages & Core Skills:**
+<!-- Animated Skill Progress Bars -->
+**Python (OOP & Logic)**
+![Python Progress](https://geektuts.github.io/github-readme-skill-bars/bars/Python.svg)
+
+**Web Development (HTML5 / CSS3 / JS)**
+![Web Dev Progress](https://geektuts.github.io/github-readme-skill-bars/bars/HTML5.svg)
+
+**Git & Version Control**
+![Git Progress](https://geektuts.github.io/github-readme-skill-bars/bars/Git.svg)
+
+---
+
+## 🛠️ Tech Stack & Tools
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Concepts & Workflows:**
-* Object-Oriented Programming (OOP) — Inheritance, Encapsulation & Classes
-* Logic Building & Problem Solving
-* Basic Web Development
-
-**Tools & Environment:**
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-### 📌 Featured Projects
+import matplotlib.pyplot as plt
 
-1. **[Employee & Engineer Management System](./)**
-   * Built a Python application implementing class inheritance (`super()`), method overriding, and structured employee details display.
-   * **Tech:** Python (OOP)
+# Data: Your Skills & Confidence Levels
+skills = ["Python (OOP)", "Logic Building", "HTML/CSS", "JavaScript", "Git"]
+levels = [85, 80, 75, 60, 70]
 
-2. **[Circle & Geometry Calculator](./)**
-   * Python script calculating radius, perimeter, and area based on user input and mathematical formulas.
-   * **Tech:** Python
+# Styling the Chart
+plt.figure(figsize=(8, 4))
+bars = plt.barh(skills, levels, color="#3776AB")
 
-3. **[Order Processing System](./)**
-   * Object-oriented module structuring product details, attributes, and price formatting.
-   * **Tech:** Python
+# Customizing design
+plt.title("Technical Skill Breakdown (%)", fontsize=14, fontweight="bold")
+plt.xlim(0, 100)
+plt.xlabel("Proficiency (%)")
+plt.grid(axis="x", linestyle="--", alpha=0.7)
+
+# Adding values inside bars
+for bar in bars:
+    width = bar.get_width()
+    plt.text(
+        width - 10,
+        bar.get_y() + bar.get_height() / 2,
+        f"{width}%",
+        ha="center",
+        va="center",
+        color="white",
+        fontweight="bold",
+    )
+
+plt.tight_layout()
+# Save image to upload to your GitHub repo
+plt.savefig("skills_chart.png")
+plt.show()
+
+## 📊 Analytics & Activity Charts
+
+<p align="left">
+  <!-- Top Languages Chart -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  
+  <!-- Overall GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<!-- Animated Streak Stats -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true)
 
 ---
 
-### 📊 GitHub Activity
+## 📂 Featured Projects
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[Employee & Engineer System](./)** | OOP system with class inheritance (`super()`), attributes, and employee details rendering. | `Python` `OOP` |
+| **[Circle Geometry Calculator](./)** | Mathematical logic tool calculating radius, perimeter, and area from user input. | `Python` |
+| **[Order Processing Module](./)** | Clean object-oriented structure for e-commerce products and prices. | `Python` |
 
 ---
 
-### 📫 Connect With Me
+## 🐍 Contribution Snake Game
+<!-- This animated snake eats your green contribution tiles live! -->
+![Snake animation](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg)
 
-* **LinkedIn:** [Your Profile Link](https://linkedin.com/in/)
-* **Email:** your.email@example.com
+---
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mominuu93@gmail.com)
+
+* **Email:** mominuu93@gmail.com
