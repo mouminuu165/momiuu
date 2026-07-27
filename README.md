@@ -92,15 +92,8 @@ plt.show()
 
 ## 🐍 Contribution Snake Game
 <!-- This animated snake eats your green contribution tiles live! -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mouminuu165/moumiuu/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mouminuu165/moumiuu/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mouminuu165/moumiuu/output/github-contribution-grid-snake.svg">
-</picture>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mouminuu165/moumiuu/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
----
+![Snake animation](https://raw.githubusercontent.com/mouminuu165/moumiuu/output/github-contribution-grid-snake.svg)
+
 
 ## 📫 Connect With Me
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM_USERNAME)
