@@ -9,15 +9,16 @@ Passionate developer focused on Object-Oriented Programming (OOP), backend logic
 ## ⚡ Skills & Experience Level
 
 <!-- Animated Skill Progress Bars -->
-**Python (OOP & Logic)**
-![Python Progress](https://geektuts.github.io/github-readme-skill-bars/bars/Python.svg)
+## ⚡ Skills & Experience Level
 
-**Web Development (HTML5 / CSS3 )**
-![Web Dev Progress](https://geektuts.github.io/github-readme-skill-bars/bars/HTML5.svg)
+* **Python (OOP & Logic)**
+  ![Python](https://img.shields.io/badge/Proficiency-85%25-3776AB?style=flat-square&logo=python&logoColor=white)
 
-**Git & Version Control**
-![Git Progress](https://geektuts.github.io/github-readme-skill-bars/bars/Git.svg)
+* **Web Development (HTML5 / CSS3 / JS)**
+  ![Web Dev](https://img.shields.io/badge/Proficiency-70%25-E34F26?style=flat-square&logo=html5&logoColor=white)
 
+* **Git & Version Control**
+  ![Git](https://img.shields.io/badge/Proficiency-75%25-F05032?style=flat-square&logo=git&logoColor=white)
 ---
 
 ## 🛠️ Tech Stack & Tools
