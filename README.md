@@ -36,10 +36,10 @@ Passionate developer focused on Object-Oriented Programming (OOP), backend logic
 
 <p align="left">
   <!-- Top Languages Chart -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?mouminuu=mouminuu165&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
   
   <!-- Overall GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?mouminuu=mouminuu165&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <!-- Animated Streak Stats -->
