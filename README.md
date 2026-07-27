@@ -34,7 +34,7 @@ Passionate developer focused on Object-Oriented Programming (OOP), backend logic
 import matplotlib.pyplot as plt
 
 # Data: Your Skills & Confidence Levels
-skills = ["Python (OOP)", "Logic Building", "HTML/CSS", "JavaScript", "Git"]
+skills = ["Python (OOP)", "Logic Building", "HTML/CSS", "Git"]
 levels = [85, 80, 75, 60, 70]
 
 # Styling the Chart
@@ -92,12 +92,12 @@ plt.show()
 
 ## 🐍 Contribution Snake Game
 <!-- This animated snake eats your green contribution tiles live! -->
-![Snake animation](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/mouminuu165/mouminuu/output/github-contribution-grid-snake.svg)
 
 ---
 
 ## 📫 Connect With Me
-
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM_USERNAME)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mominuu93@gmail.com)
 
