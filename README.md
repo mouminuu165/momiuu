@@ -90,7 +90,7 @@ plt.show()
 
 ---
 
-## 🐍 Contribution Snake Game
+## 🐍 Contribution : Snake Game Etcs.
 
 
 
