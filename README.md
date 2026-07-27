@@ -91,8 +91,7 @@ plt.show()
 ---
 
 ## 🐍 Contribution Snake Game
-<!-- This animated snake eats your green contribution tiles live! -->
-![Snake animation](https://raw.githubusercontent.com/mouminuu165/moumiuu/output/github-contribution-grid-snake.svg)
+
 
 
 ## 📫 Connect With Me
