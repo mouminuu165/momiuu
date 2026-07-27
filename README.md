@@ -12,7 +12,7 @@ Passionate developer focused on Object-Oriented Programming (OOP), backend logic
 **Python (OOP & Logic)**
 ![Python Progress](https://geektuts.github.io/github-readme-skill-bars/bars/Python.svg)
 
-**Web Development (HTML5 / CSS3 / JS)**
+**Web Development (HTML5 / CSS3 )**
 ![Web Dev Progress](https://geektuts.github.io/github-readme-skill-bars/bars/HTML5.svg)
 
 **Git & Version Control**
