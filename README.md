@@ -29,42 +29,7 @@ Passionate developer focused on Object-Oriented Programming (OOP), backend logic
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-```python
-import matplotlib.pyplot as plt
 
-# Data: Your Skills & Confidence Levels
-skills = ["Python (OOP)", "Logic Building", "HTML/CSS", "Git"]
-levels = [85, 80, 75, 70]
-
-# Styling the Chart
-plt.figure(figsize=(8, 4))
-bars = plt.barh(skills, levels, color="#3776AB")
-
-# Customizing design
-plt.title("Technical Skill Breakdown (%)", fontsize=14, fontweight="bold")
-plt.xlim(0, 100)
-plt.xlabel("Proficiency (%)")
-plt.grid(axis="x", linestyle="--", alpha=0.7)
-
-# Adding values inside bars
-for bar in bars:
-    width = bar.get_width()
-    plt.text(
-        width - 10,
-        bar.get_y() + bar.get_height() / 2,
-        f"{width}%",
-        ha="center",
-        va="center",
-        color="white",
-        fontweight="bold",
-    )
-
-plt.tight_layout()
-
-# Save image to upload to your GitHub repo
-plt.savefig("skills_chart.png")
-plt.show()
-```
 
 
 ## 📊 Analytics & Activity Charts
