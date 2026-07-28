@@ -1,5 +1,4 @@
-# Hi there, I'm [Momin(yours truly)] 
-
+# Hi there, I'm [Your Name] 👋 
 ### 🐍 Python & Web Developer | Self-Taught Programmer
 
 Passionate developer focused on Object-Oriented Programming (OOP), backend logic, and responsive web design. Constantly learning and building real-world projects.
@@ -9,41 +8,40 @@ Passionate developer focused on Object-Oriented Programming (OOP), backend logic
 ## ⚡ Skills & Experience Level
 
 <!-- Animated Skill Progress Bars -->
-## ⚡ Skills & Experience Level
+**Python (OOP & Logic)**
+![Python Progress](https://geektuts.github.io/github-readme-skill-bars/bars/Python.svg)
 
-* **Python (OOP & Logic)**
-  ![Python](https://img.shields.io/badge/Proficiency-85%25-3776AB?style=flat-square&logo=python&logoColor=white)
+**Web Development (HTML5 / CSS3 / JS)**
+![Web Dev Progress](https://geektuts.github.io/github-readme-skill-bars/bars/HTML5.svg)
 
-* **Web Development (HTML5 / CSS3 / JS)**
-  ![Web Dev](https://img.shields.io/badge/Proficiency-70%25-E34F26?style=flat-square&logo=html5&logoColor=white)
+**Git & Version Control**
+![Git Progress](https://geektuts.github.io/github-readme-skill-bars/bars/Git.svg)
 
-* **Git & Version Control**
-  ![Git](https://img.shields.io/badge/Proficiency-75%25-F05032?style=flat-square&logo=git&logoColor=white)
 ---
 
 ## 🛠️ Tech Stack & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-
-
+---
 
 ## 📊 Analytics & Activity Charts
 
 <p align="left">
   <!-- Top Languages Chart -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?mouminuu=mouminuu165&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
   
   <!-- Overall GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?mouminuu=mouminuu165&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <!-- Animated Streak Stats -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mouminuu165&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true)
 
 ---
 
@@ -57,13 +55,13 @@ Passionate developer focused on Object-Oriented Programming (OOP), backend logic
 
 ---
 
-## 🐍 Contribution : Snake Game Etcs.
+## 🐍 Contribution Snake Game
+<!-- This animated snake eats your green contribution tiles live! -->
+![Snake animation](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg)
 
-
+---
 
 ## 📫 Connect With Me
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mominuu93@gmail.com)
 
-* **Email:** mominuu93@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
